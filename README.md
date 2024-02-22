@@ -12,4 +12,3 @@
 - 📫 How to reach me: [@nguwenezaC](https://x.com/NguwenezaC?t=49UMJY9IF3ix-WyCzmFvJg&s=08)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy coding in C language ✨!
-![IMG-20220802-WA0013](https://github.com/nguwenezapchristian/nguwenezapchristian/assets/82439746/43246b13-f872-486a-b2af-a35f9a5f7392)
