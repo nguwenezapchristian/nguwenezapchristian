@@ -2,6 +2,9 @@
 
 ✨My name is Nguweneza Pierre Christian✨
 
+## MY STATS 📊
+ ![](https://github-readme-stats.vercel.app/api?username=nguwenezapchristian) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguwenezapchristian)
+
 ## ABOUT ME:
 
 - 🔭 I’m working on a Portfolio Project and a Sermon audio Website.
