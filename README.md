@@ -3,7 +3,7 @@
 ✨My name is Nguweneza Pierre Christian✨
 
 ## MY STATS 📊
- ![](https://github-readme-stats.vercel.app/api?username=nguwenezapchristian)
+ ![](https://github-readme-stats.vercel.app/api?username=nguwenezapchristian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguwenezapchristian)
 
