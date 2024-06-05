@@ -7,7 +7,6 @@
 
 ## ABOUT ME:
 
-- 🔭 I’m working on a Portfolio Project and a Sermon audio Website.
 - 🌱 I’m currently learning and improving my skills in software engineering.
 - 🔭 I'm interested in AI, machine learning, and natural language processing.
 - 👯 I’m looking to collaborate on any Project using my skills.
