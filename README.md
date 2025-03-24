@@ -3,7 +3,7 @@
 ✨My name is Nguweneza Pierre Christian✨  
 ⚡⚡Welcome To My Personal GitHub Account 😄   
 
-If you want to visit my work account click [here](https://github.com/nguweneza)✨
+I'm currently using this [account](https://github.com/nguweneza)✨
 
 ## MY STATS 📊
  ![](https://github-readme-stats.vercel.app/api?username=nguwenezapchristian&show_icons=true&theme=transparent)
