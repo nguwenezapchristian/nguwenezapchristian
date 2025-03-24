@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-✨My name is Nguweneza Pierre Christian✨
-⚡⚡Welcome to my person GitHub Account 😄
+✨My name is Nguweneza Pierre Christian✨  
+⚡⚡Welcome to my person GitHub Account 😄   
 
 If you want to visit my work account click [here](https://github.com/nguweneza)✨
 
